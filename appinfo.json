@@ -10,7 +10,7 @@
         "media": [
             {
                 "file": "images/background.png",
-                "name": "BACKGROUND",
+                "name": "IMAGE_BACKGROUND",
                 "type": "png"
             },
             {
