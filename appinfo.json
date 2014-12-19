@@ -14,9 +14,8 @@
                 "type": "png"
             },
             {
-                "compatibility": "2.7",
-                "file": "fonts/perfect-dos-vga.ttf",
-                "name": "FONT_PERFECT_DOS_48",
+                "file": "fonts/system.ttf",
+                "name": "FONT_SYSTEM_18",
                 "type": "font"
             }
         ]
